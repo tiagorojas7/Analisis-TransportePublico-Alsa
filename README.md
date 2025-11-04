@@ -1,122 +1,139 @@
-# 🚀 ALSA Transport Analytics | End-to-End Data Pipeline
+# 🚀 ALSA Transport Analytics | From Raw Data to Business Impact
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 💡 From Raw Data to Business Impact
+## 💡 I Transformed 20+ Hours of Manual Work into 5 Minutes of Automated Insights
 
-**Automated pipeline that transforms 3,000+ transportation records into actionable insights, saving 20+ hours monthly and identifying 43.2% improvement opportunities.**
+**Problem:** Transportation company struggling with manual reporting and operational inefficiencies  
+**Solution:** End-to-end data pipeline that processes 3,000+ records automatically  
+**Result:** 43.2% improvement opportunities identified + 20 hours monthly saved
 
-### 🎯 Measurable Results
-| Metric | Before | After | Impact |
-|--------|--------|-------|---------|
-| **Reporting Time** | 20+ manual hours | 5 minutes | ⏱️ **99.6% faster** |
-| **Insights Generated** | Basic reports | 43.2% opportunities | 📈 **Data-driven decisions** |
-| **On-time Performance** | Not tracked | 56.8% measured | 🎯 **Performance optimization** |
+### 🎯 Measurable Business Impact
+| Challenge | Before | After | Impact |
+|-----------|--------|-------|---------|
+| **Reporting Process** | 20+ manual hours | 5 minutes automated | ⏱️ **99.6% more efficient** |
+| **Data-Driven Decisions** | Limited insights | 43.2% opportunities identified | 📈 **Strategic optimization** |
+| **Operational Visibility** | Basic metrics | 5+ KPIs tracked in real-time | 🎯 **Performance control** |
 
 ## 🛠️ Technical Architecture
 
-### End-to-End Data Flow
-CSV Files → Power Query → Python ETL → MySQL → Power BI → Business Insights
-
+### End-to-End Data Pipeline
+Raw CSV Data → Power Query Cleaning → Python ETL → MySQL Database → Power BI Dashboards → Business Decisions
 
 
 ### Technology Stack
-| Layer | Technologies & Tools |
-|-------|---------------------|
-| **Extraction** | CSV, Excel Files |
-| **Transformation** | Power Query, Pandas, NumPy |
-| **Storage** | MySQL, SQLAlchemy |
-| **Visualization** | Power BI, DAX Measures |
-| **Automation** | Python Scripts |
+| Layer | Technologies & Implementation |
+|-------|------------------------------|
+| **Data Extraction** | CSV files, Excel workbooks |
+| **Data Transformation** | Power Query, Pandas, NumPy, Data validation |
+| **Data Storage** | MySQLWorkbench, Database design |
+| **Data Visualization** | Power BI, DAX measures, Interactive dashboards |
+| **Automation** | Python scripts, ETL pipelines |
 
 ## 📊 Business Insights Delivered
 
 ### 🚌 Operational Efficiency
-- **56.8% on-time performance** with 10-minute tolerance
+- **56.8% on-time performance** with 10-minute tolerance threshold
 - **Electric buses show 25% better** revenue-to-delay ratio  
 - **Medium routes account for 53%** of total delay losses
+- **Maintenance scheduling** optimization opportunities identified
 
-### 👥 Driver Performance
+### 👥 Driver Performance Analysis
 - **Senior drivers generate 18% more** revenue per trip
 - **Experience level directly correlates** with operational efficiency
-- **Regional optimization opportunities** identified
+- **Regional assignment optimization** strategies developed
+- **Performance benchmarking** across driver categories
 
 ### 💰 Financial Impact
-- **Revenue optimization** by bus type and route
-- **Cost reduction** through maintenance scheduling
-- **ROI analysis** for fleet upgrades
+- **Revenue optimization** by bus type, route, and time analysis
+- **Cost reduction** through predictive maintenance scheduling
+- **ROI analysis** for fleet upgrade decisions
+- **Loss prevention** through delay pattern identification
 
-## 📁 Project Navigation
+## 📁 Project Structure & Navigation
 
-### 🔍 Explore the Data Journey
-- **[Raw Data](data/01_raw/)** - Original source files
-- **[Processed Data](data/02_processed/)** - Power Query cleaned data
-- **[Analysis Ready](data/03_analysis_ready/)** - Python enriched datasets
+### 🔍 Explore the Complete Data Journey
+- **[Raw Source Data](data/01_raw/)** - Original CSV files before any processing
+- **[Power Query Processed](data/02_processed/)** - Data after initial cleaning and transformation
+- **[Python Enriched Data](data/03_analysis_ready/)** - Final datasets with business metrics and calculations
 
-### 💻 Review the Code
-- **[ETL Pipeline](src/etl_pipeline.py)** - Automated data processing
-- **[SQL Queries](src/database_queries.sql)** - Business intelligence queries
-- **[Database Setup](setup_guide.md)** - Configuration guide
+### 💻 Review the Technical Implementation
+- **[ETL Pipeline Code](src/etl_pipeline.py)** - Complete Python automation script
+- **[SQL Analysis Queries](src/database_queries.sql)** - Business intelligence queries
+- **[Project Documentation](docs/)** - Technical decisions and business context
 
-### 📈 See the Results
-- **[Performance Dashboard](dashboards/01_performance_overview.png)** - Key metrics overview
-- **[Efficiency operational](dashboards/02_operational_efficiency.png)** - Operational optimization  
-- **[Profitability Report](dashboards/03_profitability_analysis.png)** - Financial insights
+### 📈 See the Visual Results
+- **[Performance Overview](dashboards/01_performance_overview.png)** - Executive-level KPI dashboard
+- **[Operational Efficiency](dashboards/02_operational_efficiency.png)** - Route and resource optimization analysis
+- **[Profitability Analysis](dashboards/03_profitability_analysis.png)** - Financial impact and revenue intelligence
 
 ## 🚀 Quick Start
 
 ```bash
-# 1. Clone and setup
+# 1. Clone and setup environment
 git clone https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa.git
 cd Analisis-TransportePublico-Alsa
 
-# 2. Install dependencies
+# 2. Install Python dependencies
 pip install -r requirements.txt
 
-# 3. Run the pipeline
+# 3. Execute the ETL pipeline
 python src/etl_pipeline.py
 
-# 4. Connect Power BI to MySQL and explore dashboards
-Detailed instructions: Setup Guide
+# 4. Connect Power BI to MySQL database for interactive dashboards
+Detailed setup instructions: Setup Guide
 
-💼 Skills Demonstrated
+💼 Skills & Expertise Demonstrated
 Technical Excellence
-Python Data Processing: Pandas, NumPy, data validation
+Python Data Engineering: Pandas, NumPy, SQLAlchemy, ETL pipeline design
 
-SQL & Database Design: Complex queries, optimization, relationships
+SQL & Database Management: Complex queries, database design, performance optimization
 
-Power BI Development: DAX, data modeling, interactive dashboards
+Power BI Development: DAX measures, data modeling, interactive visualization
 
-ETL Pipeline Design: End-to-end automation, error handling
+Data Validation & Quality: Integrity checks, error handling, data consistency
+
+Process Automation: Scripting, scheduling, reproducible workflows
 
 Business Acumen
-ROI Analysis: Quantifiable improvement opportunities
+ROI Analysis: Quantifiable business improvement opportunities
 
-Process Automation: 20+ hours monthly time savings
+Process Optimization: 20+ hours monthly time savings through automation
 
-Data Storytelling: Executive-level communication
+Data Storytelling: Executive-level communication of complex insights
 
-Strategic Thinking: Business-objective alignment
+Strategic Thinking: Alignment of technical solutions with business objectives
 
-🤝 For Recruiters
-This project demonstrates my ability to:
+Cross-functional Collaboration: Bridging technical and business teams
 
-Lead complete data projects from raw data to business insights
+🤝 For Recruiters & Hiring Managers
+Why This Project Stands Out
+This isn't just another data analysis project—it's a complete business solution that demonstrates:
 
-Bridge technical and business teams with clear communication
+End-to-End Ownership: From raw data extraction to executive dashboard delivery
 
-Deliver measurable impact through data-driven optimization
+Impact Measurement: Every insight tied to concrete business metrics
 
-Adapt to enterprise tools and production environments
+Technical Depth: Multiple technologies integrated seamlessly
 
-Ready to bring this level of data-driven impact to your team? Let's connect!
+Business Alignment: Solutions designed for real-world operational challenges
+
+What I Bring to Your Team
+Immediate Impact: Production-ready skills from day one
+
+Strategic Mindset: Data solutions that drive business outcomes
+
+Collaborative Approach: Effective communication across technical and non-technical stakeholders
+
+Continuous Improvement: Mindset of optimization and efficiency
 
 📧 Email: [Tiagorojas1602@gmail.com]
 🔗 LinkedIn: [https://www.linkedin.com/in/tiago-rojas/]
-📞 Telefono: [3515069498]
+💼 Portfolio: [https://github.com/tiagorojas7]
+☎️ Telefono: [3515069498] 
 
 
 
