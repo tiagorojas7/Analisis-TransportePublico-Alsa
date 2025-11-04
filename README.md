@@ -52,9 +52,9 @@ CSV Files → Power Query → Python ETL → MySQL → Power BI → Business Ins
 ## 📁 Project Navigation
 
 ### 🔍 Explore the Data Journey
-- **[Raw Data](datos/01_originales/)** - Original source files
-- **[Processed Data](datos/02_procesados/)** - Power Query cleaned data
-- **[Analysis Ready](datos/03_final/)** - Python enriched datasets
+- **[Raw Data](data/01_raw/)** - Original source files
+- **[Processed Data](data/02_processed/)** - Power Query cleaned data
+- **[Analysis Ready](data/03_analysis_ready/)** - Python enriched datasets
 
 ### 💻 Review the Code
 - **[ETL Pipeline](src/etl_pipeline.py)** - Automated data processing
@@ -62,9 +62,9 @@ CSV Files → Power Query → Python ETL → MySQL → Power BI → Business Ins
 - **[Database Setup](setup_guide.md)** - Configuration guide
 
 ### 📈 See the Results
-- **[Performance Dashboard](dashboards/)** - Key metrics overview
-- **[Efficiency Analysis](dashboards/)** - Operational optimization  
-- **[Profitability Report](dashboards/)** - Financial insights
+- **[Performance Dashboard](dashboards/01_performance_overview.png)** - Key metrics overview
+- **[Efficiency operational](dashboards/02_operational_efficiency.png)** - Operational optimization  
+- **[Profitability Report](dashboards/03_profitability_analysis.png)** - Financial insights
 
 ## 🚀 Quick Start
 
