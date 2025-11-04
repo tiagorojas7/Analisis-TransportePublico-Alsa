@@ -61,8 +61,8 @@ This isn't just a one-time analysis—it's a **fully automated reporting system*
 ### 🎯 How It Scales in Production:
 
 # When new operational data arrives:
-1. Place new CSV files in `data/01_raw/`
-2. Execute: python src/etl_pipeline.py
+1. Place new CSV files in [data/01_raw/]()
+2. Execute: [python src/etl_pipeline.py]()
 3. Refresh Power BI data connections
 4. All dashboards instantly reflect new insights
 
@@ -114,28 +114,27 @@ python src/etl_pipeline.py
 # 4. Connect Power BI to MySQL database for interactive dashboards
 Detailed setup instructions: Setup Guide
 
-💼 Skills & Expertise Demonstrated
+```
+### 💼 Skills & Expertise Demonstrated
+
 Technical Excellence
-Python Data Engineering: Pandas, NumPy, SQLAlchemy, ETL pipeline design
+. Python Data Engineering: Pandas, NumPy, SQLAlchemy, ETL pipeline design
 
-SQL & Database Management: Complex queries, database design, performance optimization
+. SQL & Database Management: Complex queries, database design, performance optimization
 
-Power BI Development: DAX measures, data modeling, interactive visualization
+. Power BI Development: DAX measures, data modeling, interactive visualization
 
-Data Validation & Quality: Integrity checks, error handling, data consistency
+. Data Validation & Quality: Integrity checks, error handling, data consistency
 
-Process Automation: Scripting, scheduling, reproducible workflows
+. Process Automation: Scripting, scheduling, reproducible workflows
 
-Business Acumen
-ROI Analysis: Quantifiable business improvement opportunities
+. Process Optimization: 20+ hours monthly time savings through automation
 
-Process Optimization: 20+ hours monthly time savings through automation
+. Data Storytelling: Executive-level communication of complex insights
 
-Data Storytelling: Executive-level communication of complex insights
+. Strategic Thinking: Alignment of technical solutions with business objectives
 
-Strategic Thinking: Alignment of technical solutions with business objectives
-
-Cross-functional Collaboration: Bridging technical and business teams
+. Cross-functional Collaboration: Bridging technical and business teams
 
 🤝 For Recruiters & Hiring Managers
 Why This Project Stands Out
