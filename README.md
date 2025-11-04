@@ -62,7 +62,7 @@ This isn't just a one-time analysis—it's a **fully automated reporting system*
 
 # When new operational data arrives:
 1. Place new CSV files in [data/01_raw/]()
-2. Execute: [python src/etl_pipeline.py]()
+2. Execute: [python src/etl_pipeline.py](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/src/etl_pipeline.py)
 3. Refresh Power BI data connections
 4. All dashboards instantly reflect new insights
 
