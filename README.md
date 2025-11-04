@@ -27,29 +27,24 @@ Solución integral de análisis de datos que transforma información operativa c
 
 **📁 Estructura del Proyecto**
 
-### Analisis-TransportePublico-Alsa/
-|
-├── 📊 datos/                       
+├── 📊 DATOS/                       
 - [01.originales](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/01_originales)  -Datos Crudos      
 - [02.procesados](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/02_procesados)  -Datos limpios ( Power query )
-- 03_final/     
+- [03.final](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/03_final)  - Dataframes Enriquecidos para su respectivo analisis ( Python ) 
 
-├── 🔧 codigo/                         # Código fuente
-│   ├── ProyectoPropio.py              # Pipeline ETL principal
-│   └── consulta general.sql           # Consultas SQL para insights
+├── 🔧 CODIGO/                         
+- [Script Python TransportePublico]()
+- [consulta general SQL.sql] ()       
 
-├── 📈 dashboards/                     # Reportes visuales
-│   ├── 01_dashboard_rendimiento.png   # Performance general
-│   ├── 02_dashboard_eficiencia.png    # Eficiencia operacional
-│   └── 03_dashboard_rentabilidad.png  # Análisis de rentabilidad
+ 📈 dashboards/                     # Reportes visuales
+ 01_dashboard_rendimiento.png   # Performance general
+02_dashboard_eficiencia.png    # Eficiencia operacional
+03_dashboard_rentabilidad.png  # Análisis de rentabilidad
 
-├── 📋 documentacion/                  # Documentación técnica
-│   ├── contexto_negocio.md            # Problema empresarial
-│   └── decisiones_tecnicas.md         # Arquitectura y stack
+ 📋 documentacion/                  # Documentación técnica
+ contexto_negocio.md            # Problema empresarial
+decisiones_tecnicas.md         # Arquitectura y stack
 
-└── 🎯 para_reclutadores/              # Sección especial hiring
-    ├── puntos_destacados.md           # Por qué este proyecto destaca
-    └── habilidades_demostradas.md     # Competencias técnicas
 
 **🔍 ¿Qué Encontrarás Aquí?**
 ✅ Pipeline ETL completo desde datos crudos hasta dashboards
