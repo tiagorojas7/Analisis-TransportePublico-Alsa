@@ -27,24 +27,24 @@ Solución integral de análisis de datos que transforma información operativa c
 
 **📁 Estructura del Proyecto**
 
-├── 📊 DATOS/                       
+├── **📊 DATOS/**                       
 - [01.originales](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/01_originales)  -Datos Crudos      
 - [02.procesados](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/02_procesados)  -Datos limpios ( Power query )
 - [03.final](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/03_final)  - Dataframes Enriquecidos para su respectivo analisis ( Python ) 
 
-├── 🔧 CODIGO/                         
+├── **🔧 CODIGO/**                         
 - [Script Python TransportePublico](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/codigo/Script%20Python%20TransportePublico.py) - Script Python 
 - [consulta general SQL.sql](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/codigo/consulta%20general%20SQL.sql) - Consulta general SQL       
 
-├── 📈 DASHBOARDS/                     
+├── **📈 DASHBOARDS/**                     
 - [01_dashboard_PerformanceGeneral.png](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/01-Dashboard_PerformanceGeneral.png)  - Estadisiticas Generales 
 - [02_dashboard_eficiencia.png](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/02-Dashboard_EficienciaOperacional.png) - Eficiencia Operacional 
 - [03_dashboard_rentabilidad.png](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/03-Dashboard_RentabilidadOperativa.png)  - Rentabilidad Operativa
 - [Dashboard Completo](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/Dashboard_Transportepublico.pbix) - Documento para descargar 
 
- ├──📋 documentacion/                 
+ ├──**📋 DOCUMENTACION/**                 
  - [contexto_negocio.md](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/documentacion/contexto_negocio.md)  -Contexto y Problemas a resolver      
- - [decisiones_tecnicas.md]()     
+ - [decisiones_tecnicas.md](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/documentacion/decisiones_tecnicas.md)  -Decisiones metodologia de Trabajo
 
 
 **🔍 ¿Qué Encontrarás Aquí?**
