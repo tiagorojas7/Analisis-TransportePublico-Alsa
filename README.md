@@ -31,7 +31,7 @@ Solución integral de análisis de datos que transforma información operativa c
 |
 ├── 📊 datos/                       
 - [01.originales](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/01_originales)  -Datos Crudos      
-- 02_procesados/
+- [02.procesados](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/02_procesados)  -Datos limpios ( Power query )
 - 03_final/     
 
 ├── 🔧 codigo/                         # Código fuente
