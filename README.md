@@ -26,12 +26,13 @@ Solución integral de análisis de datos que transforma información operativa c
 | **Automatización** | Scripts Python |
 
 **📁 Estructura del Proyecto**
-Analisis-TransportePublico-Alsa/
+
+### Analisis-TransportePublico-Alsa/
 |
-├── 📊 datos/                          # Journey completo de los datos
-│   ├── datos/01_originales/                 # Datos crudos sin procesar
-│   ├── 02_procesados/                 # Después de Power Query
-│   └── 03_final/                      # Datos enriquecidos listos
+├── 📊 datos/                       
+- [01.originales](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/01_originales)  -Datos Crudos      
+- 02_procesados/
+- 03_final/     
 
 ├── 🔧 codigo/                         # Código fuente
 │   ├── ProyectoPropio.py              # Pipeline ETL principal
