@@ -40,11 +40,11 @@ Solución integral de análisis de datos que transforma información operativa c
 - [01_dashboard_PerformanceGeneral.png](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/01-Dashboard_PerformanceGeneral.png)  - Estadisiticas Generales 
 - [02_dashboard_eficiencia.png](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/02-Dashboard_EficienciaOperacional.png) - Eficiencia Operacional 
 - [03_dashboard_rentabilidad.png](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/03-Dashboard_RentabilidadOperativa.png)  - Rentabilidad Operativa
-- [Dashboard Completo]()
+- [Dashboard Completo](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/Dashboard_Transportepublico.pbix) - Documento para descargar 
 
- 📋 documentacion/                  # Documentación técnica
- contexto_negocio.md            # Problema empresarial
-decisiones_tecnicas.md         # Arquitectura y stack
+ ├──📋 documentacion/                 
+ - [contexto_negocio.md]()        
+ - [decisiones_tecnicas.md]()     
 
 
 **🔍 ¿Qué Encontrarás Aquí?**
