@@ -1,0 +1,26 @@
+route_id,route_name,zone,distance_km,avg_duration_min
+1,Route 1,West,37.6,97
+2,Route 2,south,22.0,108
+3,Route 3,noth,24.1,85
+4,Route 4,south,6.0,56
+5,Route 5,East,29.2,105
+6,Route 6,noth,14.2,73
+7,Route 7,centar,41.6,26
+8,Route 8,Central,23.3,80
+9,Route 9,West,5.5,63
+10,Route 10,south,39.8,110
+11,Route 11,West,29.7,24
+12,Route 12,East,45.0,52
+13,Route 13,South,17.5,113
+14,Route 14,North,25.2,96
+15,Route 15,West,21.5,41
+16,Route 16,centar,13.6,89
+17,Route 17,centar,19.1,118
+18,Route 18,Central,6.6,90
+19,Route 19,centar,35.8,111
+20,Route 20,Central,28.9,117
+21,Route 21,noth,44.5,23
+22,Route 22,West,42.5,45
+23,Route 23,centar,32.2,52
+24,Route 24,centar,20.1,37
+25,Route 25,south,7.3,56
