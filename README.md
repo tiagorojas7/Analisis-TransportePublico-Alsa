@@ -38,7 +38,7 @@ Solución integral de análisis de datos que transforma información operativa c
 
 ├── 📈 DASHBOARDS/                     
 - [01_dashboard_PerformanceGeneral.png](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/01-Dashboard_PerformanceGeneral.png)  - Estadisiticas Generales 
-- [02_dashboard_eficiencia.png]() 
+- [02_dashboard_eficiencia.png](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/02-Dashboard_EficienciaOperacional.png) - Eficiencia Operacional 
 - [03_dashboard_rentabilidad.png]()  
 
  📋 documentacion/                  # Documentación técnica
