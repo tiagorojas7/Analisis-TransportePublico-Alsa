@@ -33,8 +33,8 @@ Solución integral de análisis de datos que transforma información operativa c
 - [03.final](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/tree/main/datos/03_final)  - Dataframes Enriquecidos para su respectivo analisis ( Python ) 
 
 ├── 🔧 CODIGO/                         
-- [Script Python TransportePublico]()
-- [consulta general SQL.sql] ()       
+- [Script Python TransportePublico](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/codigo/Script%20Python%20TransportePublico.py) - Script 
+- [consulta general SQL.sql]()       
 
  📈 dashboards/                     # Reportes visuales
  01_dashboard_rendimiento.png   # Performance general
