@@ -36,8 +36,8 @@ Solución integral de análisis de datos que transforma información operativa c
 - [Script Python TransportePublico](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/codigo/Script%20Python%20TransportePublico.py) - Script Python 
 - [consulta general SQL.sql](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/codigo/consulta%20general%20SQL.sql) - Consulta general SQL       
 
- 📈 dashboards/                     
- - [01_dashboard_rendimiento.png]() 
+├── 📈 DASHBOARDS/                     
+- [01_dashboard_PerformanceGeneral.png](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/01-Dashboard_PerformanceGeneral.png)  - Estadisiticas Generales 
 - [02_dashboard_eficiencia.png]() 
 - [03_dashboard_rentabilidad.png]()  
 
