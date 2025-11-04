@@ -43,7 +43,7 @@ Solución integral de análisis de datos que transforma información operativa c
 - [Dashboard Completo](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/dashboards/Dashboard_Transportepublico.pbix) - Documento para descargar 
 
  ├──📋 documentacion/                 
- - [contexto_negocio.md]()        
+ - [contexto_negocio.md](https://github.com/tiagorojas7/Analisis-TransportePublico-Alsa/blob/main/documentacion/contexto_negocio.md)  -Contexto y Problemas a resolver      
  - [decisiones_tecnicas.md]()     
 
 
